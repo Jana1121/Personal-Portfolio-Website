@@ -33,7 +33,3 @@ The website is designed to adapt across different devices, including desktops, l
 The project is deployed using **GitHub Pages**.
 
 [Open Personal Portfolio →](https://jana1121.github.io/Personal-Portfolio-Website/)
-
-## Project Status
-
-The portfolio may continue to evolve as I add new projects, skills, certifications, and experiences.
